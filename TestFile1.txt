@@ -5,3 +5,4 @@ Line4
 Line5OnFeature/TestFile1
 Line6ByUser1
 Line7ByUser1
+Line8ByUser1
