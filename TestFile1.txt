@@ -4,3 +4,4 @@ Line3
 Line4
 Line5OnMain
 Line5OnFeature/TestFile1
+NewLine
